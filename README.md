@@ -33,14 +33,6 @@ Implemented from scratch:
 
 An ensemble voting classifier aggregates predictions to improve overall accuracy and reduce bias.
 
-## Performance
-
-| Model               | Accuracy | Precision | Recall | F1-score | Validation Loss |
-| ------------------- | -------- | --------- | ------ | -------- | --------------- |
-| Logistic Regression | 93.26%   | 0.9015    | 0.9785 | 0.9384   | 0.4887          |
-| Random Forest       | 97.51%   | 0.9864    | 0.9672 | 0.9767   | 0.2157          |
-| XGBoost             | 97.60%   | 0.9880    | 0.9672 | 0.9775   | 0.2462          |
-| Ensemble Voting     | 97.70%   | 0.9864    | 0.9672 | 0.9767   | -               |
 
 ## How to Use
 
